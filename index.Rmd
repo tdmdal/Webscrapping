@@ -6,7 +6,7 @@ title: "WebScrapping with Python"
 * Python Notebooks
     1. Making HTTP requests (<a href="requests_library.ipynb" download="requests_library.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Webscrapping/blob/master/requests_library.ipynb) )
     2. Processing HTML files (<a href="venturebeat_pagination.ipynb" download="beautiful_soup.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Webscrapping/blob/master/beautiful_soup.ipynb) )
-    3. Take home exercise (<a href="Webscrapping_practice_exercise.docx" download="Webscrapping_practice_exercise.docx">Download</a>
+    3. Take home exercise (<a href="Webscrapping_practice_exercise.docx" download="Webscrapping_practice_exercise.docx">Download .docx file</a>)
 
 * Other Resources:   
     1. [Practical Web Scrapping for Data Science](http://www.webscrapingfordatascience.com/)
